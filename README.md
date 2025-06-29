@@ -34,25 +34,31 @@
 
 ## 📸 Screenshots
 
+> **To add screenshots:** Upload your image files to a `screenshots/` folder in this repository, or use the alternative method below.
+
 ### Dashboard Overview
-![Task Management Dashboard](screenshots/dashboard.png)
+<!-- Replace with your image URL: ![Task Management Dashboard](screenshots/dashboard.png) -->
 *Main dashboard showing today's tasks, weekly overview, and monthly progress tracking*
 
 ### Priority Matrix
-![Priority Matrix View](screenshots/priority-matrix.png)
+<!-- Replace with your image URL: ![Priority Matrix View](screenshots/priority-matrix.png) -->
 *Eisenhower Matrix implementation for task prioritization based on urgency and importance*
 
 ### Hierarchical Task List
-![Hierarchical List](screenshots/hierarchical-list.png)
+<!-- Replace with your image URL: ![Hierarchical List](screenshots/hierarchical-list.png) -->
 *Nested task organization with progress tracking and time estimates*
 
 ### Gantt Chart
-![Gantt Chart](screenshots/gantt-chart.png)
+<!-- Replace with your image URL: ![Gantt Chart](screenshots/gantt-chart.png) -->
 *Timeline visualization for project management with drag-and-drop functionality*
 
 ### Notes & Sticky Wall
-![Notes Feature](screenshots/notes.png)
+<!-- Replace with your image URL: ![Notes Feature](screenshots/notes.png) -->
 *Digital sticky notes for quick thoughts and reminders*
+
+### How to Add Images:
+1. **Method 1**: Create a `screenshots` folder in your repo and upload PNG files
+2. **Method 2**: Create a GitHub issue, drag images into the comment box, copy the generated URLs, and replace the paths above
 
 ## 🎯 Application Features Showcase
 
